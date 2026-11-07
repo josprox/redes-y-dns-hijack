@@ -1,0 +1,27 @@
+# Binarios compilados
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+estrella.exe
+
+# Archivos de pruebas y ejecutables generados por Go
+*.test
+*.out
+
+# Entornos de desarrollo / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs y volcados de memoria
+*.log
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.DS_Store
