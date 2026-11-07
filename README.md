@@ -27,8 +27,8 @@ Permite interceptar el dominio `estrella.com` a nivel local (evitando la resoluc
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
-   cd TU_REPOSITORIO
+   git clone https://github.com/josprox/redes-y-dns-hijack.git
+   cd redes-y-dns-hijack
    ```
 
 2. Abre una terminal de **PowerShell** o **Símbolo del sistema** como **Administrador**.
